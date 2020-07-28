@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Im currenctly learning Node, ReactJS and React Native and loving it!
+
+
+
+
 <!--
 **bruno0907/bruno0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
