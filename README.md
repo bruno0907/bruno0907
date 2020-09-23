@@ -16,9 +16,7 @@ The Future:
 - Work work work. 
 - Become a better version of me everyday.
 
-Daily:
-I'm currenctly learning React Hooks and Styled Components
-I'm currencty working on a Very Simples but challenging Delivery App to help business with delivery service put a dynamic product list optimized for mobile.
+Daily Activity: Working on V2.0 of the #NLW project Proffy. While working on this project im learning with it custom knex queries with postgres, getting a better understanding on array methods like filter, map, and for loops. 
 
 Hobbies:
 Music, Gym, Sleep, Do nothing... (very important)
