@@ -19,7 +19,7 @@ The Future:
 Hobbies:
 Music, Gym, Sleep, Do nothing... (very important)
 
-- 🔭 I’m currently working on: My own project SoA Apply
+- 🔭 I’m currently working on: My own project [SoA Apply](https://soa-apply-frontend.vercel.app/)
 - 🌱 I’m currently learning: Constantly working with JS/TS methods. ContextAPI and Hooks on React
 - 📫 How to reach me: bruno0907@gmail.com is my main contact form
 - 🤔 I’m looking for help with how to test a discord webhook with Insomnia 
