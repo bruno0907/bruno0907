@@ -1,8 +1,6 @@
 ### Hello!!! 👋
 
-
-
-My name is Bruno and im my way to become a FullStack Dev. 
+My name is Bruno and im on my way to become a FullStack Developer. 
 
 About me:
 2 years ago i got burned out of my profession and decided to give it up and search for a new career path. Tried a few things here and there and i must admit i dont remember how but i strumbled on JS, React and React Native and all that comes with and my passion for web techs that a mix of bad teachers, bad computer science colege, html table/float web design, ASP/IIS early days of terror made me drop the webdev world back in the day. 
