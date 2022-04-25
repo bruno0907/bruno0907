@@ -15,10 +15,4 @@
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 
 #### Contact
-- 📫 How to reach me: bruno0907@gmail.com
-
-#### A bit about me
-Currently working on personal projects as i'm going through a career change from computer tech to fullstack developer. It is never too late to change your career and learn again. Age brings experience. Personal and life experience is as important as technical experience. 
-
-#### Toughts
-- "Every person has its own timing. You must respect it but never neglect it."
+- 📫 bruno0907@gmail.com     
