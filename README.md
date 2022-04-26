@@ -1,18 +1,23 @@
-### Hello!!! 👋
+# Hello!!! 👋
 
-## I'm Bruno Mariani and i'm a Front-end developer with a bit of Back-end 👌.
+## I am Bruno Mariani and I am a Frontend developer with a bit of Backend and Mobile 👌
 
-#### Stacks
-- ReactJS and NextJS 
+Mostly of my experience comes from studies, personal em freelance jobs and it is more foccused on the frontend path but i had a share of experience with backend and mobile projects.
+
+#### My main stacks:
+- React and Next
 - Node 
 - React Native
 
-##### Currently
-- 🔭 Working on: [MARCA](https://github.com/bruno0907/marca-erp).
-- 🌱 Learning: JS/TS (no ending learning). Context and Hooks with React.
+#### I am Currently:
+- Working on: [MARCA](https://github.com/bruno0907/marca-erp) and [BHealthy](https://app.bhealthy.com.br/)
+- Learning: JS/TS (no ending learning) | Automated testing with Jest and Cypress | Frontend Architecture | UI/UX Prototype
 
-#### Daily
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
+### I am Looking for help with:
+- Unit and integration tests in React with tons of "untestable" libraries 
+- Frontend Architecture: How and why a decision was taken and how far to decouple pages from methods and components
+- My english conversation skills.
 
-#### Contact
-- 📫 bruno0907@gmail.com     
+#### You can contact me at: 
+- bruno0907@gmail.com     
+- https://www.linkedin.com/in/bruno0907/
