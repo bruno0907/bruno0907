@@ -10,8 +10,10 @@ Mostly of my experience comes from studies, personal em freelance jobs and it is
 - React Native
 
 #### I am Currently:
-- Working on: [MARCA](https://github.com/bruno0907/marca-erp) and [BHealthy](https://app.bhealthy.com.br/)
+- Working on: Freelance private projects
 - Learning: JS/TS (no ending learning) | Automated testing with Jest and Cypress | Frontend Architecture | UI/UX Prototype
+- Redux
+- Graphql
 
 ### I am Looking for help with:
 - Unit and integration tests in React with tons of "untestable" libraries 
