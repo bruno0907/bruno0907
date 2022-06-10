@@ -1,4 +1,4 @@
-# Hello!!! 👋
+# Hello!!! 🤙
 
 ## I am Bruno Mariani and I am a Frontend developer with a bit of Backend and Mobile 👌
 
