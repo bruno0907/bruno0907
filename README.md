@@ -1,8 +1,8 @@
 # Hello!!! 🤙
 
-## I am Bruno Mariani and I am a Frontend developer with a bit of Backend and Mobile 👌
+## I am Bruno Mariani and I am a Fullstack developer currently working on a remote position with PHP and Javascript. 👌
 
-Mostly of my experience comes from studies, personal em freelance jobs and it is more foccused on the frontend path but i had a share of experience with backend and mobile projects.
+My main focus is React, React Native and Node with Typescript as carreer and thats what you will see and find here in my github profile. 
 
   <div>
     <a href="https://github.com/bruno0907">
