@@ -1,15 +1,8 @@
 # Hello!!! 🤙
 
-## I am Bruno Mariani and I am a Fullstack developer currently working on a remote position with PHP and Javascript. 👌
+## I am Bruno Mariani and I am a Back-end developer currently working on a remote position with PHP and Javascript/Jquery. 👌
 
 My main focus is React, React Native and Node with Typescript as carreer and thats what you will see and find here in my github profile. 
-
-  <div>
-    <a href="https://github.com/bruno0907">
-    <img height="180em" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api?username=bruno0907&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-dyipt0l08-fanwangm.vercel.app/api/top-langs/?username=bruno0907&layout=compact&langs_count=7&theme=aura"/>
-  </div>
-
 
 #### My tools of choice:
   <div>
