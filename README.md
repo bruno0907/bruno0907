@@ -1,8 +1,8 @@
 # Hello!!! 🤙
 
-## I am Bruno Mariani and I am a Back-end developer currently working on a remote position with PHP and Javascript/Jquery. 👌
+## I am Bruno Mariani and I am a fullstack developer currently working on a remote position with PHP/Javascript/Jquery/Mysql. 👌
 
-My main focus is React, React Native and Node with Typescript as carreer and thats what you will see and find here in my github profile. 
+This github profile is for my personal professional and study projects with the focus on React, React Native and Node and thats what you will see and find here. 
 
 #### My tools of choice:
   <div>
